@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "空が鳴っている",
+  "base_artist": "Tokyo Incidents",
+  "createdAt": "2025-12-01T13:56:39.199735Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "空が鳴っている",
+      "artist": "Tokyo Incidents",
+      "has_synced": false,
+      "path": "select/01_空が鳴っている_Tokyo_Incidents.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sora ga natte iru [空が鳴っている]",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/02_Sora_ga_natte_iru_[空が鳴っている]_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "空が鳴っている",
+      "artist": "東京事変",
+      "has_synced": true,
+      "path": "select/03_空が鳴っている_東京事変.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "空が鳴っている",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_01_空が鳴っている_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "空が鳴っている",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_02_空が鳴っている_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "空が鳴っている",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_03_空が鳴っている_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "空が鳴っている",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_04_空が鳴っている_東京事変.txt"
+    }
+  ]
+}
